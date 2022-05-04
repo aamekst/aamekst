@@ -25,8 +25,6 @@ windons . emoji
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamekst&layout=count& &langs_count=5&text_color=fff&title_color=CE96FF&icon_color=582B9C&bg_color=0D1117&theme=back&hide_title=true"/>
  </div>
  
- ##
- 
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
