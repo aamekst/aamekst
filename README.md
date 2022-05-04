@@ -44,6 +44,5 @@ windons . emoji
   <a href="https://www.linkedin.com/in/alana-sato-b44829210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
  
- 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aamekst)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=aamekst)
 
