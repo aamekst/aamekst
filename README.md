@@ -21,7 +21,7 @@ windons . emoji
 
 <div align="center">
 <a href="https://github.com/aamekst">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aamekst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=C6FCED,509080,1A5D4F"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aamekst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&text_color=fff&title_color=471C8C&icon_color=582B9C&bg_color=C6FCED,96DEE1,619CC7,6478AF,6D538A,582B9C&theme=graywhite"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamekst&layout=compact&langs_count=7&theme=gotham"/>
  </div>
  
@@ -45,7 +45,6 @@ windons . emoji
  <!-- <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
   <a href="https://www.linkedin.com/in/alana-sato-b44829210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![snake gif](https://github.com/aamekst/aamekst/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
