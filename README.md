@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 windons . emoji
 -->
- - 👩‍💻 Estudando: Angular, TypeScript, Kotlin, Xamarim, C# e SQL
+ - 👩‍💻 Estudando: Angular, TypeScript, Java, Xamarim, C# e SQL
 
 ##
 
