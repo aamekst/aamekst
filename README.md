@@ -22,7 +22,7 @@ windons . emoji
 <div align="center">
 <a href="https://github.com/aamekst">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aamekst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&text_color=fff&title_color=CE96FF&icon_color=64BAAA&bg_color=0D1117&theme=graywhite"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamekst&layout=count& &langs_count=5&text_color=fff&title_color=CE96FF&icon_color=582B9C&bg_color=0D1117&theme=back&hide_title=true"/>
+
  </div>
  
  <div style="display: inline_block"><br>
