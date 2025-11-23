@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 windons . emoji
 -->
- - 👩‍💻 Estudando: SQL, HTML, PYTHON, AWS
+ - 👩‍💻 Estudando: SQL, HTML e CSS, PYTHON, JS
 
 ##
 
