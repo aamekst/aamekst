@@ -6,8 +6,7 @@
 
 <div align="center">
 <a href="https://github.com/aamekst">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aamekst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&text_color=fff&title_color=CE96FF&icon_color=64BAAA&bg_color=0D1117&theme=graywhite"/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aamekst&show_icons=true&locale=pt-BR&layout=compact&text_color=fff&title_color=CE96FF&icon_color=64BAAA&bg_color=0D1117&theme=graywhite" alt="aamekst" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aamekst&show_icons=true&locale=pt-BR&layout=compact&text_color=fff&title_color=CE96FF&icon_color=64BAAA&bg_color=0D1117&theme=graywhite" alt="aamekst" /></p>
 
 
  </div>
